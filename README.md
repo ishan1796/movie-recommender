@@ -42,9 +42,4 @@ streamlit run app.py
 
 ---
 
-## 👥 Project Team
-- Sanjay Gedela (23BKT0139)
-- Ishan Singh (23BCI0104)
-- Khushi Singh (21BCT0364)
-- Shrutika (23BCE0116)
-- Jain Utkarsh Sandeep (23BCT0088)
+
