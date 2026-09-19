@@ -1,0 +1,17 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and large model caches (auto-downloaded and generated on first launch)
+data/
+*.pkl
+*.csv
+
+# Environment & IDE
+.env
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
